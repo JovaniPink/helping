@@ -18,6 +18,8 @@ I wanted a repo to house my datasets and details and comments & to display compe
 - Finding out the improvement area and identifying automation opportunities to make operation efficient.
 - Developing reports and reference documents to get finalized reports.
 
+## Projects
+
 ## Links
 
 Resources:
@@ -51,6 +53,6 @@ Please make sure to update tests as appropriate.
 
 ## 📝 License
 
-Distributed under the [MIT](http://showalicense.com/?fullname=Konstantin+M%C3%BCnster&year=2019#license-mit) license.
+## License
 
-See `LICENSE` for more information.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more information.
