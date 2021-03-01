@@ -20,6 +20,8 @@ I wanted a repo to house my datasets and details and comments & to display compe
 
 ## Projects
 
+[Citi Bike Dashboard](https://public.tableau.com/profile/jovanipink#!/vizhome/BikeSharing_16039941514670/CitiBikeDashboard)
+
 ## Links
 
 Resources:
