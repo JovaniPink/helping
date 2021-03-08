@@ -32,6 +32,8 @@ Start Your Learning Journey: https://www.tableau.com/learn/start-your-journey
 
 Example work: https://public.tableau.com/profile/jovanipink#!/
 
+Also, eBooks, graphics, and cheatsheets under the "resources" folder
+
 ## Todo Checklist
 
 A helpful checklist to gauge how your README is coming on what I would like to finish:
